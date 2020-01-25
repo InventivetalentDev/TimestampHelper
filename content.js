@@ -26,7 +26,7 @@ document.body.addEventListener("mouseup", e => {
             }
 
             let date = new Date(num);
-            console.log(date);
+            console.log("[TimestampHelper] " + date);
 
             dismissTooltip();
             createTooltip(date.toUTCString(), rect);
