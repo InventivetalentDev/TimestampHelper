@@ -1,6 +1,6 @@
 {
   "name": "TimestampHelper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Display human-readable timestamps from selected unix timestamps",
   "author": "Haylee Schäfer (inventivetalent)",
   "icons": {
