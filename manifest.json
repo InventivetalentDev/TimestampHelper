@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "Display human-readable timestamps from selected unix timestamps",
   "author": "Haylee Schäfer (inventivetalent)",
+  "icons": {
+    "32": "img/clock-stamp-x32.png",
+    "64": "img/clock-stamp-x64.png",
+    "128": "img/clock-stamp-x128.png",
+    "256": "img/clock-stamp-x256.png",
+    "512": "img/clock-stamp-x512.png"
+  },
   "permissions": [
     "activeTab"
   ],
