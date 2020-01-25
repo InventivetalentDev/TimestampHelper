@@ -53,7 +53,7 @@ function createTooltip(text, rect) {
     div.style.top = (rect.top - 22) + 'px';
     div.style.left = rect.left + 'px';
     div.style.height = 20 + 'px';
-    div.style.width = 220 + 'px';
+    div.style.width = "fit-content";
     div.style.padding = 1 + "px";
     document.body.appendChild(div);
 
