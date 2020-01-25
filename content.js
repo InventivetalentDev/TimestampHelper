@@ -1,5 +1,3 @@
-console.log("[TimestampHelper] Hello World!");
-
 const pattern = /[0-9]{10,13}/;
 
 let currentTooltip;

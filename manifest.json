@@ -2,7 +2,6 @@
   "name": "TimestampHelper",
   "version": "1.0.0",
   "description": "Display human-readable timestamps from selected unix timestamps",
-  "default_locale": "en",
   "author": "Haylee Schäfer (inventivetalent)",
   "permissions": [
     "activeTab"
