@@ -4,7 +4,7 @@ let currentTooltip;
 
 document.body.addEventListener("mouseup", e => {
     let selection = window.getSelection();
-    if (selection) {
+    if (selection && selection.rangeCount > 0) {
         let text = selection.toString();
 
         let range = selection.getRangeAt(0);
